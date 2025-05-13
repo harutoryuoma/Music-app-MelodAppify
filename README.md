@@ -5,6 +5,7 @@ Welcome to MelodyAppify! This Android app allows users to stream music seamlessl
 ## Features
 
 -User can play music with stored in main android storage
+Other function will be updated later
 
 ## Getting Started
 
