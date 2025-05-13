@@ -4,11 +4,7 @@ Welcome to MelodyAppify! This Android app allows users to stream music seamlessl
 
 ## Features
 
-- User Music Streaming: Listen to your favorite tracks anytime, anywhere.
-- Artist Music Upload: Artists can easily upload their music and reach a wider audience.
-- Personalized Playlists: Create and manage your own playlists to suit your mood.
-- Search Functionality: Find your favorite songs and artists quickly.
-- Social Sharing: Share your favorite tracks and playlists with friends.
+-User can play music with stored in main android storage
 
 ## Getting Started
 
